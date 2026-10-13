@@ -39,10 +39,10 @@ const Navbar = () => {
       <Link href="https://www.linkedin.com/in/areesha-kainat/"> 
       <p className="flex flex-row items-center my-[15px] cursor-pointer h-16 w-11">
         <RxLinkedinLogo  className='size-9' color='blue'/> </p> </Link>
-       <Link href={"https://www.instagram.com/areesha.__.kainat/"}>
+       <Link href={"/"}>
        <p className="flex flex-row items-center my-[15px] cursor-pointer  h-16 w-11"> 
         <RxInstagramLogo  className='size-9' color='#E1306C'/> </p></Link>
-       <Link href={"https://discordapp.com/users/1221024988841250826"}>
+       <Link href={"/"}>
         <p className="flex flex-row items-center my-[15px] cursor-pointer h-16 w-11">
            <RxDiscordLogo  className='size-9' color='darkblue'/> </p></Link>
         </div>
